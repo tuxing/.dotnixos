@@ -1,0 +1,2 @@
+# .dotnixos
+nixos confs
